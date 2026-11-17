@@ -2,3 +2,4 @@ My name is Tanya.
 This repository is for my CP390 Week 10 lab.
 I am practicing how to collaborate using GitHub.
 I will practice reviewing and merging pull requests.
+I will use the Files changed tab to review edits before merging a pull request.
